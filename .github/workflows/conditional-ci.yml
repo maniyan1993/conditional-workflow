@@ -1,4 +1,4 @@
-name: Conditional CI
+name:  conditional-ci
 
 on:
   push:
